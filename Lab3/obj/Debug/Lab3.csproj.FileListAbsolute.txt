@@ -1,0 +1,7 @@
+D:\учеба\криптовалюта\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\учеба\криптовалюта\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\учеба\криптовалюта\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\учеба\криптовалюта\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\учеба\криптовалюта\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\учеба\криптовалюта\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\учеба\криптовалюта\Lab3\Lab3\obj\Debug\Lab3.pdb
